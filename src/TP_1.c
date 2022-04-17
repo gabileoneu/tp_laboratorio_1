@@ -1,4 +1,4 @@
-//Alegre Bartolucci,Matias 1B
+/*Alegre Bartolucci,Matias 1B*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "Biblioteca.h"
